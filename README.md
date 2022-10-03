@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 
 
  I'm Ewan Rakotoanosy, a french computing and tech lover, currently doing a master degree in computing at the University of Savoy.
  
