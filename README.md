@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- I'm Ewan Rakotoanosy, a french computing and tech lover, currently doing a master degree in computing.
+ I'm Ewan Rakotoanosy, a french computing and tech lover, currently doing a master degree in computing at the University of Savoy.
  
 <!--
 **rakotoew/rakotoew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
