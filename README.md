@@ -10,7 +10,7 @@
 #### My github statistics
 <div align="center" layout="flex">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?hide_title=true&layout=compact&card_width=320&langs_count=5&theme=darcula&hide_border=true&username=rakotoew" height="100" alt="languages graph"/>
- <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=darcula&hide_border=true&username=rakotoew" height="150" alt="stats graph"/>
+ <img src="https://github-readme-stats.vercel.app/api?hide_title=true&layout=compact&card_width=320&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=darcula&hide_border=true&username=rakotoew" height="100" alt="stats graph"/>
 </div>
 <!--
 **rakotoew/rakotoew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
